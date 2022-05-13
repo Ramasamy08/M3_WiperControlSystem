@@ -41,3 +41,18 @@ Controlling using WEB.
 it's a modern way of approach,High use in modern days
 ##Threat
 if sensor is damaged, operation of the system will stop
+
+##Reqirements
+High Level Requirements
+ID	                 Discription	                             status
+HR_01	                Car is in ACC mode	                   Implemented
+HR_02	                Car is in Ignition mode	                   Implemented
+HR_03	                Wiper turned on	                           Implemented
+HR_04	                Wiper turned off                           Implemented
+
+Low level requirements
+ID	                  Discription	                                                  status
+LR_01	                 Button pressed ONCE for two seconds - ON LED RED	        Implemented
+LR_02	                 Button pressed once again times - OFF LED RED	                Implemented
+LR_03	                 Button pressed two time - ON BLUE,GREEN,ORANGE	                Implemented
+LR_04	                 Button pressed again for two seconds - OFF ORANGE,GREEN,BLUE	Implemented
