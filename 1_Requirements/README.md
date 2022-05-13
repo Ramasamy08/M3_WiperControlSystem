@@ -42,7 +42,7 @@
 ## Threat
 * if sensor is damaged, operation of the system will stop
 
-#Reqirements
+# Reqirements
 ## HIGH LEVEL REQUIREMENTS:
 | ID | Description | Status |
 | -- | ----------- | ------ |
